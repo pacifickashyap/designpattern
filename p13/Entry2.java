@@ -1,3 +1,4 @@
+// Will not work as overloading needs objects of same type
 class Handler
 {
      public void Collide(Ship go1,Station go2) {}
