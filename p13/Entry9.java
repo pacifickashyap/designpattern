@@ -1,3 +1,4 @@
+//Solution using lambda and lookup table
 class Handlers{
      public void ShipStationCollide(Ship go1,Station go2) {}
      public void AestroidStationCollide(Aestroid go1,Station go2) {}
