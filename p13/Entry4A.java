@@ -1,3 +1,4 @@
+//Cyclometic complexity removed.. but introduced coupling... also may not work.
 @Author: Yash
 
 class Ship extends GO{
