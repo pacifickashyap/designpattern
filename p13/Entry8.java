@@ -1,3 +1,4 @@
+// Solution using command pattern along with lookup/hashmap
 interface Action{
   void Collide(GameObject go1,GameObject go2);
 }
