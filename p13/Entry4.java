@@ -1,4 +1,4 @@
-
+// Half cyclometic complexity removed but with the introduction of coupling... (coupling more bad than type check)
 class Ship extends GO{
   void Collide(GameObject go2){
     //this is ship
