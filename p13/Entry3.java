@@ -1,3 +1,4 @@
+// Type check along with Instance check
 class Handler
 {
      public void Collide(Ship go1,Station go2) {}
